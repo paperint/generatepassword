@@ -3,6 +3,9 @@
 - Tailwindcss
 - DaisyUI
 
+## Deploy Live
+[Generater Password in Vercel](https://generatepassword-two.vercel.app/)
+
 # generaterpassword
 
 This template should help get you started developing with Vue 3 in Vite.
